@@ -94,6 +94,8 @@ Text and every ANSI colour read at 7:1 or better on the background.
 ## License
 
 [MIT](LICENSE) © Deus Vult Digital. The theme is generated: its colours,
-art and previews are made by scripts, nothing downloaded. The background
-lettering uses the ANSI Shadow FIGlet font from the MIT-licensed
+art and previews are made by scripts, nothing downloaded. They live in
+[omarchy-deus-vult-themes](https://github.com/deus-vult-digital/omarchy-deus-vult-themes);
+change the theme there, not here. The background lettering uses the ANSI
+Shadow FIGlet font from the MIT-licensed
 [figlet](https://github.com/patorjk/figlet.js) package.
